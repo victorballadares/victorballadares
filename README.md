@@ -3,6 +3,9 @@
 
 ![portada](https://user-images.githubusercontent.com/98767362/169353495-fbd40105-4a67-4fd5-9841-15674a5de0ed.png)
 
+<a href="linkedin.com/in/victormballadares"><![LinkedIn_logo_initials](https://user-images.githubusercontent.com/98767362/169361325-15000cc9-34b7-4a26-93fe-7a23cb1c72b8.png height="30" width="40")</a>
+
+
 ## Skills
 
 ![html-5](https://user-images.githubusercontent.com/98767362/169284756-a8071cdb-735e-4549-a5f0-2d5eafa95eca.png)
