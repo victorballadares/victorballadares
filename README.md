@@ -9,17 +9,39 @@
 
 
 ## Skills
+<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5">![html-5](https://user-images.githubusercontent.com/98767362/169284756-a8071cdb-735e-4549-a5f0-2d5eafa95eca.png)</a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">![css](https://user-images.githubusercontent.com/98767362/169284833-e943afb6-14ca-4e89-8d5b-5c2ff5b5e13e.png)</a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">![js (1)](https://user-images.githubusercontent.com/98767362/169284937-712e1b80-3a7b-46f1-bbca-ce91b584cce8.png)</a>
+<a href="https://nodejs.org/es/docs/">![nodejs (1)](https://user-images.githubusercontent.com/98767362/169349254-5ab7ef56-bae7-4080-8409-5c896f41d358.png)</a>
+<a href="https://www.php.net/manual/es/intro-whatis.php">![php (1)](https://user-images.githubusercontent.com/98767362/169349313-8ca39eee-9c97-4fcf-8d1a-21a55f485a0c.png)</a>
+<a href="https://www.python.org/doc/">
+![python (1)](https://user-images.githubusercontent.com/98767362/169349381-a69569d8-c370-4e37-976a-3ade6e662129.png)</a>
+<a href="https://dev.java/learn/">![java (1)](https://user-images.githubusercontent.com/98767362/169349436-7d4b794c-bbcc-47bb-aaee-7d96e6a0271e.png)</a>
+<a href="https://getbootstrap.com/">
+![bootstrap (1)](https://user-images.githubusercontent.com/98767362/169349632-ee6b327c-4a5e-489d-ab62-cd9b3101928f.png)</a>
+<a href="https://wordpress.org/">
+![wordpress](https://user-images.githubusercontent.com/98767362/169349679-185eb0a6-9313-4dc3-b236-524ff3943ca5.png)</a>
+<a href="https://dev.mysql.com/doc/">![mysql](https://user-images.githubusercontent.com/98767362/169349911-01ccea12-39b6-4bb6-a4ae-23c49a8e0a1a.png)</a>
+<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongo%20db&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624563&adgroup=115749706983&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQJfIcPgdTj14XxlKgSe_Dc-xFMXmhg7KhDKJxi-Jz6-VOsU4DnAsZYaAs7BEALw_wcB"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mi83nQu9qdPUozHEodVGeu936klDJqJG3MiwDfqiWgI7G7hn0P-SRBhjVWUGzlk5Ca4&usqp=CAU" width="84px" height="64px"></a>
+  
+  
+<a href="https://firebase.google.com/?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQL_2JfuOYbcLWVCBfWJvuAIyiexvGLCCEiDZZT1IkIc8va5jr-_y5YaApJtEALw_wcB&gclsrc=aw.ds"><img src ="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s640/logo%2Bfirebase%2Bicon.png" width="84" height="64"></a>
+<a href="https://www.postgresql.org/"><img src ="https://www.muylinux.com/wp-content/uploads/2017/10/postgresql.png" width="100" height="64"></a>
+<a href="https://hibernate.org/"><img src ="https://www.tc-web.it/wp-content/uploads/2019/01/hibernate.jpg" width="64" height="64"></a>
+<a href=""><img src =""></a>
+<a href=""><img src =""></a>
+<a href=""><img src =""></a>
+<a href=""><img src =""></a>
+<a href=""><img src =""></a>
 
-![html-5](https://user-images.githubusercontent.com/98767362/169284756-a8071cdb-735e-4549-a5f0-2d5eafa95eca.png)
-![css](https://user-images.githubusercontent.com/98767362/169284833-e943afb6-14ca-4e89-8d5b-5c2ff5b5e13e.png)
-![js (1)](https://user-images.githubusercontent.com/98767362/169284937-712e1b80-3a7b-46f1-bbca-ce91b584cce8.png)
-![nodejs (1)](https://user-images.githubusercontent.com/98767362/169349254-5ab7ef56-bae7-4080-8409-5c896f41d358.png)
-![php (1)](https://user-images.githubusercontent.com/98767362/169349313-8ca39eee-9c97-4fcf-8d1a-21a55f485a0c.png)
-![python (1)](https://user-images.githubusercontent.com/98767362/169349381-a69569d8-c370-4e37-976a-3ade6e662129.png)
-![java (1)](https://user-images.githubusercontent.com/98767362/169349436-7d4b794c-bbcc-47bb-aaee-7d96e6a0271e.png)
-![bootstrap (1)](https://user-images.githubusercontent.com/98767362/169349632-ee6b327c-4a5e-489d-ab62-cd9b3101928f.png)
-![wordpress](https://user-images.githubusercontent.com/98767362/169349679-185eb0a6-9313-4dc3-b236-524ff3943ca5.png)
-![mysql](https://user-images.githubusercontent.com/98767362/169349911-01ccea12-39b6-4bb6-a4ae-23c49a8e0a1a.png)
+
+
+
+
+
+
+
+
 
 ## Front-End
 <h4>Html5</h4>
