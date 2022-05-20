@@ -1,9 +1,11 @@
 <h1 align="center"> Hi 👋, I'am Victor Balladares </h1>
 <h3 align="center">Full Stack Web Developer💻</h3>
 
-![portada](https://user-images.githubusercontent.com/98767362/169353495-fbd40105-4a67-4fd5-9841-15674a5de0ed.png)
 
-<a href="linkedin.com/in/victormballadares"><![LinkedIn_logo_initials](https://user-images.githubusercontent.com/98767362/169361325-15000cc9-34b7-4a26-93fe-7a23cb1c72b8.png height="30" width="40")</a>
+
+<h4>Contact</h4>
+<h5>victor.m.balladares.f@gmail.com<h5>
+<h5>LinkedIn</h5><a href="https://www.linkedin.com/in/victormballadares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Logo de lindkedin" height="30" width="40" /></a>
 
 
 ## Skills
