@@ -23,17 +23,12 @@
 ![wordpress](https://user-images.githubusercontent.com/98767362/169349679-185eb0a6-9313-4dc3-b236-524ff3943ca5.png)</a>
 <a href="https://dev.mysql.com/doc/">![mysql](https://user-images.githubusercontent.com/98767362/169349911-01ccea12-39b6-4bb6-a4ae-23c49a8e0a1a.png)</a>
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongo%20db&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624563&adgroup=115749706983&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQJfIcPgdTj14XxlKgSe_Dc-xFMXmhg7KhDKJxi-Jz6-VOsU4DnAsZYaAs7BEALw_wcB"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mi83nQu9qdPUozHEodVGeu936klDJqJG3MiwDfqiWgI7G7hn0P-SRBhjVWUGzlk5Ca4&usqp=CAU" width="84px" height="64px"></a>
-  
-  
 <a href="https://firebase.google.com/?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQL_2JfuOYbcLWVCBfWJvuAIyiexvGLCCEiDZZT1IkIc8va5jr-_y5YaApJtEALw_wcB&gclsrc=aw.ds"><img src ="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s640/logo%2Bfirebase%2Bicon.png" width="84" height="64"></a>
 <a href="https://www.postgresql.org/"><img src ="https://www.muylinux.com/wp-content/uploads/2017/10/postgresql.png" width="100" height="64"></a>
 <a href="https://hibernate.org/"><img src ="https://www.tc-web.it/wp-content/uploads/2019/01/hibernate.jpg" width="64" height="64"></a>
-<a href=""><img src =""></a>
-<a href=""><img src =""></a>
-<a href=""><img src =""></a>
-<a href=""><img src =""></a>
-<a href=""><img src =""></a>
-
+<a href="https://www.adobe.com/es/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjw1ZeUBhDyARIsAOzAqQItB-lWIZOdslF30_e58t8KpESb8yEL7NTkwccoFf5D0lYhyD6T2NIaApFCEALw_wcB:G:s&s_kwcid=AL!3085!3!340859178374!e!!g!!photoshop!1445901735!56657232416&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQItB-lWIZOdslF30_e58t8KpESb8yEL7NTkwccoFf5D0lYhyD6T2NIaApFCEALw_wcB"><img src ="https://logos-marcas.com/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" width="80" height="57"></a>
+<a href="https://www.dolibarr.es/"><img src ="https://dyltqmyl993wv.cloudfront.net/assets/stacks/dolibarr/img/dolibarr-stack-220x234.png" width="70" height="65"></a>
+<a href="https://github.com/victorballadares?tab=repositories"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPgWkg_H9JPUrfN-0aSnSBeM9ASyFeT7qGw&usqp=CAU" width="70" height="65"></a>
 
 
 
