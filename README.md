@@ -4,18 +4,14 @@
 <img src="https://user-images.githubusercontent.com/98767362/169511460-88dffa57-5970-4b14-9d73-9c882a300681.jpeg">
 </figure>
 
+Passionate about technology, with high capacity adaptation, commitment, collaboration and results-oriented, learning and improvement continuous, with a great desire to continue growing in the field of software development and apply new technologies.
+
 <h4>Contact</h4>
 <h5>victor.m.balladares.f@gmail.com<h5>
 <h5>LinkedIn</h5><a href="https://www.linkedin.com/in/victormballadares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Logo de lindkedin" height="30" width="40" /></a>
   
-<p align="center>
-Passionate about technology, with high capacity
-adaptation, commitment, collaboration and
-results-oriented, learning and improvement
-continuous, with a great desire to continue growing
-in the field of software development and apply
-new technologies.
-</p>
+
+
 
 
 ## Skills
