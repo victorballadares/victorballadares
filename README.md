@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'am Victor Balladares 💻</h1>
 
 <figure align="center">
-<img src="https://user-images.githubusercontent.com/98767362/169511460-88dffa57-5970-4b14-9d73-9c882a300681.jpeg">
+<img src="https://user-images.githubusercontent.com/98767362/171731210-2c4112a8-9914-46df-8896-9ef900479e58.png">
 </figure>
 
 Passionate about technology, with high capacity adaptation, commitment, collaboration and results-oriented, learning and improvement continuous, with a great desire to continue growing in the field of software development and apply new technologies.
